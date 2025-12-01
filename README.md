@@ -1,8 +1,12 @@
 # SpatialDownscaling
-# By Sustainable Water and Soil Innovators Co.
+By Sustainable Water and Soil Innovators Co.
+
 MATLAB codes for spatial downscaling 
+
 These codes have been developed to efficiently process and analyze large-scale climate datasets, including CMIP6 outputs and other NetCDF (*.nc) files.
+
 Constructive feedback and suggestions for further improvement are very welcome. 
+
 For correspondence or comments, please contact me at h.yousefi.wrm@gmail.com.
 If you use these codes in your research or applications, please cite the following publications:
 1- Nikoo, M. R., Yousefi, H., Al-Wardy, M., Al-Rawas, G., Nazari, R., Al Hanai, A., & Al-Zeidi, K. (2026).
