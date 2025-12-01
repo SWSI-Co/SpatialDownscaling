@@ -10,6 +10,7 @@ Constructive feedback and suggestions for further improvement are very welcome.
 For correspondence or comments, please contact me at h.yousefi.wrm@gmail.com.
 
 If you use these codes in your research or applications, please cite the following publications:
+
 1- Nikoo, M. R., Yousefi, H., Al-Wardy, M., Al-Rawas, G., Nazari, R., Al Hanai, A., & Al-Zeidi, K. (2026). Risk-based assessment of climate change–induced hazards in arid, data-scarce coastal zones. Ocean & Coastal Management,
  272, 108024.
  
